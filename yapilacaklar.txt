@@ -1,0 +1,10 @@
+// Black list transfer ve rezervasyonda da de de olsun
+
+// Tab tuþlarýný kontrol et
+
+// Reservationda green + hata verir bak
+
+// Transferlerde Arrivalda Paid to olacak 
+
+
+ 

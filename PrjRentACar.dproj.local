@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\tmp\UntReport.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepReservation.dfm=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepParca2.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepReservation.dfm=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepKayit.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntReports.dfm=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntCustomer.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntCustomer.dfm=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntCar.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\BritishRentACar\UntCarList.dfm=D:\Folder Lock\Locker\delphi\programlar\BritishRentACar\UntCar.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\DlgForms\UntDlgTransfer.dfm=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\DlgForms\UntDlgCustomer.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\RepReservation.dfm=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntReports.pas=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntCustomer.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntReports.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepKayit.dfm=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepReservation.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepKayit.dfm=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\RepReservation.dfm=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntReports.dfm=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.115,H:\Delphi\Programlar\BritishRentACar\UntCompany.pas=H:\Delphi\Programlar\BritishRentACar\UntAgency.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.115,H:\Delphi\Programlar\BritishRentACar\UntCompany.dfm=H:\Delphi\Programlar\BritishRentACar\UntAgency.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntLogin.pas=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntTransfers.dfm=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntCustomer.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\CeremiTravel\UntGelir.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntAgency.pas=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntCustomer.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepParca2.pas=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepReservation.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntBirthDayRemainder.pas=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepTransfer.dfm=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepReservation.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\BritishRentACar\UntKur.pas=D:\Folder Lock\Locker\delphi\programlar\BritishRentACar\UntCustomer.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepParca2.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntLogReports.dfm=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntReports.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntLogReports.pas=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntReports.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\CeremiTravel\UntMenu.dfm=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepKayit.pas=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepReservation.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepKayit.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\DlgForms\UntDlgTransfer.pas=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\DlgForms\UntDlgCustomer.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntBirthDayRemainder.dfm=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\CeremiTravel\UntGelir.dfm=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\BritishRentACar\UntCarList.pas=D:\Folder Lock\Locker\delphi\programlar\BritishRentACar\UntCar.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepReservation.pas=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepKayit.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepReservation.pas=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepParca2.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntAdmin.pas=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntReports.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntAdmin.dfm=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntReports.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntAgency.dfm=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntCustomer.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepReservation.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntLogin.dfm=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepTransfer.pas=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepReservation.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntCustomer.pas=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntCar.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\CeremiTravel\UntMenu.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntTransfers.pas=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\UntCustomer.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.924,=H:\Delphi\Programlar\BritishRentACar\UntAgency.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\tmp\UntReport.dfm=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\RepReservation.pas=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepParca2.dfm=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepReservation.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Reports\RepParca2.dfm=</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,D:\Folder Lock\Locker\delphi\programlar\BritishRentACar\UntKur.dfm=D:\Folder Lock\Locker\delphi\programlar\BritishRentACar\UntCustomer.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.pas,D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\RepReservation.pas=D:\Folder Lock\Locker\delphi\programlar\Baspinar RentACar\Unit1.pas</Transaction>
+    <Transaction>2018/07/24 14:49:52.909.pas,C:\Users\Hp\Google Drive\programlar\BritishRentACar\DlgForms\UntDlgTransfer.pas=</Transaction>
+    <Transaction>2018/07/24 14:49:52.909.dfm,C:\Users\Hp\Google Drive\programlar\BritishRentACar\DlgForms\UntDlgTransfer.dfm=</Transaction>
+    <Transaction>2018/07/24 14:50:30.292.dfm,C:\Users\Hp\Google Drive\programlar\BritishRentACar\DlgForms\UntDlgTransfer.dfm=</Transaction>
+    <Transaction>2018/07/24 14:50:30.292.pas,C:\Users\Hp\Google Drive\programlar\BritishRentACar\DlgForms\UntDlgTransfer.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
