@@ -1,0 +1,22 @@
+# systemd servisi: /etc/systemd/system/rentacar.service olarak kopyalayın.
+# Yolları kendi kurulumunuza göre düzenleyin (örnek: /opt/rentacar/web).
+[Unit]
+Description=RentACar PWA API
+After=network.target mysql.service
+
+[Service]
+Type=simple
+User=rentacar
+WorkingDirectory=/opt/rentacar/web/server
+Environment=NODE_ENV=production
+ExecStart=/usr/bin/node dist/index.js
+Restart=on-failure
+RestartSec=5
+# Güvenlik sınırlamaları
+NoNewPrivileges=true
+ProtectSystem=full
+ProtectHome=true
+PrivateTmp=true
+
+[Install]
+WantedBy=multi-user.target
