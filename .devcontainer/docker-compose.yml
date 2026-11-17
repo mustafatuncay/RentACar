@@ -1,0 +1,29 @@
+# Test environment only. The passwords below are for this throw-away database
+# inside the Codespace; never use them on the real server.
+services:
+  app:
+    image: mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm
+    command: sleep infinity
+    volumes:
+      - ../..:/workspaces:cached
+    # Share the database container's network: MySQL is reachable at 127.0.0.1:3306
+    network_mode: service:db
+    depends_on:
+      - db
+
+  db:
+    image: mysql:8.4
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: codespace-root
+      MYSQL_DATABASE: RentACar
+      MYSQL_USER: rentacar_app
+      MYSQL_PASSWORD: codespace-app
+    volumes:
+      - mysql-data:/var/lib/mysql
+      # Run once, on the first start of an empty database (in this order)
+      - ../web/server/sql/dev_schema_inferred.sql:/docker-entrypoint-initdb.d/01-schema.sql:ro
+      - ../web/server/sql/dev_seed.sql:/docker-entrypoint-initdb.d/02-seed.sql:ro
+
+volumes:
+  mysql-data:

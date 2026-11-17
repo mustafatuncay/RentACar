@@ -45,6 +45,12 @@ Aynen korunan iş kuralları: sezon ayları (Kas–Mar düşük, Nis–Haz orta,
 Uygulama telefona/bilgisayara kurulabilir. İnternet yokken **son açılan listeler görüntülenebilir**, ancak kayıt yapılamaz.
 Bu bilinçli bir tercih: internetsiz kayıt, iki kişinin aynı aracı kiralamasına yol açabilir.
 
+## GitHub Codespaces ile deneme
+
+Kurulum yapmadan tarayıcıda denemek için: GitHub'da depo sayfasında **Code → Codespaces → Create codespace**.
+Test veritabanı (örnek verilerle) ve uygulama otomatik kurulup başlar. **PORTS** sekmesinde 3000 numaralı porta tıklayın,
+`admin / admin123` ile giriş yapın. Ayrıntılar: `.devcontainer/README.md`. Gerçek veritabanınıza dokunmaz.
+
 ## Linux sunucuya kurulum
 
 Gereken: Node.js 20 veya 22 LTS, nginx, MySQL (mevcut veritabanı).

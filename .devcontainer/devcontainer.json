@@ -1,0 +1,25 @@
+{
+  // GitHub Codespaces / Dev Containers: RentACar PWA test environment.
+  // Opens with a MySQL test database (sample data) and starts the app on port 3000.
+  "name": "RentACar PWA (test)",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+  "shutdownAction": "stopCompose",
+  "forwardPorts": [3000, 5173],
+  "portsAttributes": {
+    "3000": { "label": "RentACar app", "onAutoForward": "openPreview" },
+    "5173": { "label": "Vite dev server (optional)", "onAutoForward": "silent" },
+    "3306": { "label": "MySQL", "onAutoForward": "ignore" }
+  },
+  "postCreateCommand": "bash .devcontainer/setup.sh",
+  "postStartCommand": "bash .devcontainer/start.sh",
+  "customizations": {
+    "vscode": {
+      "extensions": ["Vue.volar", "dbaeumer.vscode-eslint"]
+    },
+    "codespaces": {
+      "openFiles": [".devcontainer/README.md"]
+    }
+  }
+}
